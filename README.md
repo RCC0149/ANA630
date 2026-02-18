@@ -1,7 +1,8 @@
 # SECOM Semiconductor Manufacturing Quality Analysis
 
 **Author:** Randall C. Crawford
-**Course:** ANA 630 – Advanced Analytic Applications
+
+**Course:** ANA 630 – Advanced Analytic Applications - Module 4
 
 ---
 
